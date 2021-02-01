@@ -17,3 +17,4 @@
 - https://github.com/Linda-Ikechukwu/Todo-App - localstorage
 - https://github.com/taniarascia/mvc/ - JS MVC
 - https://github.com/dwyl/javascript-todo-list-tutorial - Academic ToDo with test
+- https://romeojeremiah.github.io/Todo-List-Project/
